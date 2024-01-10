@@ -86,4 +86,9 @@ body {
     font-weight: 600;
     opacity: 0.25;
   }
+.flex_c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   
